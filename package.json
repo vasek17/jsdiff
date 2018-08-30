@@ -1,6 +1,6 @@
 {
-  "name": "diff",
   "version": "3.5.0",
+  "name": "@vasek17/diff",
   "description": "A javascript text diff implementation.",
   "keywords": [
     "diff",
@@ -16,7 +16,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kpdecker/jsdiff.git"
+    "url": "git://github.com/vasek17/jsdiff.git"
   },
   "engines": {
     "node": ">=0.3.1"
